@@ -26,13 +26,13 @@ public class Matriz_Adyacencia {
         matriz[1][4] = 1;
         
         matriz[1][2] = 1;
-        matriz[3][2] = 1;
+        /*matriz[3][2] = 1;
         matriz[2][3] = 1;
         matriz[3][2] = 1;
         matriz[2][3] = 1;
         matriz[3][3] = 1;
         matriz[3][4] = 1;
-        matriz[4][3] = 1;
+        matriz[4][3] = 1;*/
         
         
         String texto ="digraph G {\n";

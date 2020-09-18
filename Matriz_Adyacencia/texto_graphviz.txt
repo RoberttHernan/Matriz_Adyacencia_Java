@@ -2,11 +2,6 @@ digraph G {
 nodo1->nodo2;
 nodo1->nodo4;
 nodo2->nodo1;
-nodo2->nodo3;
-nodo3->nodo2;
-nodo3->nodo3;
-nodo3->nodo4;
 nodo4->nodo1;
-nodo4->nodo3;
 
 }
